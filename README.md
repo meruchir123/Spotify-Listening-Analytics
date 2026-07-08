@@ -94,6 +94,13 @@ This dimensional model enables efficient analytical queries while minimizing dat
 </p>
 
 
+## Dashboard
+<p align="center">
+  <img src="images/dashboard.png" width="1000">
+</p>
+
+
+
 ## 📈 Key Performance Indicators
 
 The dashboard tracks the following business metrics:
